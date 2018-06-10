@@ -1,0 +1,6 @@
+#FileLock
+#Sun Jun 10 10:45:42 UTC 2018
+hostName=ip-172-31-36-76.us-east-2.compute.internal
+id=163e94d344ede3723f757e2b8b698dbf6648186232c
+method=file
+server=172.31.36.76\:40869
