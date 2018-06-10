@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war 

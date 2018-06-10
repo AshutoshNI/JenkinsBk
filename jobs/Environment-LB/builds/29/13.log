@@ -1,0 +1,3 @@
+[Environment-LB@2] Running shell script
++ sudo swapon /swapfile
+swapon: /swapfile: swapon failed: Device or resource busy

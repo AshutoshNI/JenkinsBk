@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.12.2">
+  <actions>
+    <io.jenkins.blueocean.service.embedded.BlueOceanUrlAction plugin="blueocean-rest-impl@1.2.0">
+      <blueOceanUrlObject class="io.jenkins.blueocean.service.embedded.BlueOceanUrlObjectImpl">
+        <mappedUrl>blue/organizations/jenkins/Build-Deployment</mappedUrl>
+      </blueOceanUrlObject>
+    </io.jenkins.blueocean.service.embedded.BlueOceanUrlAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <com.coravy.hudson.plugins.github.GithubProjectProperty plugin="github@1.28.0">
+      <projectUrl>https://github.com/AshutoshNI/ecom.git/</projectUrl>
+      <displayName></displayName>
+    </com.coravy.hudson.plugins.github.GithubProjectProperty>
+    <com.sonyericsson.rebuild.RebuildSettings plugin="rebuild@1.25">
+      <autoRebuild>false</autoRebuild>
+      <rebuildDisabled>false</rebuildDisabled>
+    </com.sonyericsson.rebuild.RebuildSettings>
+    <com.synopsys.arc.jenkinsci.plugins.jobrestrictions.jobs.JobRestrictionProperty plugin="job-restrictions@0.6"/>
+    <hudson.plugins.throttleconcurrents.ThrottleJobProperty plugin="throttle-concurrents@2.0.1">
+      <maxConcurrentPerNode>0</maxConcurrentPerNode>
+      <maxConcurrentTotal>0</maxConcurrentTotal>
+      <categories class="java.util.concurrent.CopyOnWriteArrayList"/>
+      <throttleEnabled>false</throttleEnabled>
+      <throttleOption>project</throttleOption>
+      <limitOneJobWithMatchingParams>false</limitOneJobWithMatchingParams>
+      <paramsToUseForLimit></paramsToUseForLimit>
+    </hudson.plugins.throttleconcurrents.ThrottleJobProperty>
+    <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+      <triggers>
+        <hudson.triggers.SCMTrigger>
+          <spec>H/2 * * * *</spec>
+          <ignorePostCommitHooks>false</ignorePostCommitHooks>
+        </hudson.triggers.SCMTrigger>
+      </triggers>
+    </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.39">
+    <script>node {
+   def mvnHome
+   stage (&apos;Env.Setup&apos;) {
+       sh &quot;rm -fr /root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war&quot;
+       sh &quot;rm -fr /root/.jenkins/jobs/Build-Deployment/builds/*&quot;
+       //sh &quot;rm -fr &apos;sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war&quot;
+       
+   }
+   stage(&apos;Pre-Build&apos;) { 
+      git &apos;https://github.com/AshutoshNI/ecom&apos;
+      //git &apos;https://github.com/AshutoshNI/Template.git&apos;
+      //git &apos;https://github.com/shopizer-ecommerce/shopizer&apos;
+             
+      mvnHome = tool &apos;M3&apos;
+   }
+   stage(&apos;BuildPhase&apos;) {
+       if (isUnix()) {
+         sh &quot;&apos;${mvnHome}/bin/mvn&apos; clean install&quot;
+      } else {
+         bat(/&quot;${mvnHome}\bin\mvn&quot; -Dmaven.test.failure.ignore clean package/)
+      }
+   }
+   stage(&apos;TestPhase&apos;) {
+      junit &apos;sm-shop/target/surefire-reports/TEST*.xml&apos;
+      archive &apos;sm-shop/target/*.war&apos;
+   }
+   stage(&apos;DeployPhase&apos;) {
+                echo &apos;deployment in process&apos;
+                sh &quot;rm -fr &apos;/opt/tomcat/webapps/ROOTBK&apos;&quot;
+                sh &quot;mv &apos;/opt/tomcat/webapps/ROOT&apos; &apos;/opt/tomcat/webapps/ROOTBK&apos;&quot;
+                sh &quot;mv &apos;template&apos; &apos;/opt/tomcat/webapps/ROOT&apos;&quot;
+                sh  &quot;cp &apos;sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war&apos; &apos;/opt/tomcat/webapps/shop.war&apos;&quot;
+                //sh &quot;rm -fr &apos;/root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war&apos;&quot;
+                //sh  &quot;cp &apos;sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war&apos;&quot;
+   }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

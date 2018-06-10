@@ -1,0 +1,93 @@
+Started by user [8mha:////4B5tmRot9Jnt0OApQ5p6omFtb0i+R3g65wvT6bI/ksv5AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL90qTSvJJSACwKtszBAAAA[0mTestData
+[Sun Sep 03 07:33:23 UTC 2017] Starting organization scan...
+[Sun Sep 03 07:33:23 UTC 2017] Updating actions...
+Looking up details of AshutoshNI...
+Organization URL: [8mha:////4BXFTjaUR1VKALoya3Ue9PdlrKlA/MWUiVlV8E5b2nSRAAAAnR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQLWGQzSgpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w8wQA5qv85KIAAAA=[0mhttps://github.com/AshutoshNI
+[Sun Sep 03 07:33:24 UTC 2017] Consulting GitHub Organization
+[8mha:////4GxVBEVmvb0Qofozf3H9F7vwZG9us7RpXoKnWaaldm2vAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSc24ouGQCSdXEajgAAAA==[0mConnecting to https://api.github.com using ubuntu/****** (GitHub Access Token)
+[8mha:////4GwStr6DBh7al/TAkYu9k94BPiVL6TFvFkWL7PgpFyAjAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSc24quSQC123EQjgAAAA==[0mLooking up repositories of myself AshutoshNI
+Ignoring ASPDemo
+Ignoring AspDeploy
+Proposing ecom
+Examining [8mha:////4AdPn6kTtsj8b32XJdbzBNPUh7MqGXGnjzkfJ+bI+QHjAAAAoB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgL2FQyigpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89RPBfIBoUlexacAAAA=[0mAshutoshNI/ecom
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4ApcJLRdpzZ44HGhnQ+bSfUc+3ucoqXbBgUHakfJEh0CAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgK2HQyygpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89RPBfFLilJT9XMTi0tSiwBnRw1gswAAAA==[0mmaster
+      ‘Jenkinsfile’ found
+    Met criteria
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining AshutoshNI/ecom
+
+Ignoring FT_Demo
+Ignoring FT_ICICI_Repo
+Ignoring NTL-DevOps_GITHub_KonakartDemo
+Ignoring NTL_Git_IAS
+Ignoring NTL_OpenC
+Ignoring NTL_OpenCart
+Proposing shopizer
+Examining [8mha:////4Gll4aZ0kpSnaW6/kzcMZC8ukUzzaO5FpaIT6URMipBMAAAAph+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLmFQyygpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89QvzsgvyKxKLQIACdgJ76sAAAA=[0mAshutoshNI/shopizer
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4Dq0Tbb9+sgb0cN3RMOMKKvZ27m3VkZkb5E8dBKaIc2DAAAArh+LCAAAAAAAAP9djLENwjAQRY9EMAAlYoYcoqAApUA0RIrSMEGAk+1gbMs+o8AYrAENQzAOOxCUjtf81/z3/MAweJjKeAzWZAdrgtWUba+OvFbmVFmmRf545Xf3TiApYKTJCJYlpNFrhnHZ1JcadW0E7tgrI1ath8lfbtPvLwY9gwSgdZ2kDCiZXVgiCsUy7rvXGddBRrZBVgUGaZ26kUf2RDjPZl+GbE0GtAAAAA==[0m2.0
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4E+Hroe1M5VtJ4OcWA0RRnMdqyS3vDKSj3eCCShaHQffAAAAsB+LCAAAAAAAAP9djLENwjAQRY+gMAAlYgYfoaAISoFoiBSlYYIAlm0wtmWfUWAM1oCGIRiHHQhKx2v+a/57fiANHqYyHoI1bG9NsJqzzdVxr5U51Zb4oni8irt7J5CUMNLcCJIVDKPXBOPq2Fwa1I0RuCWvjFi2HiZ/uXW/vxj0DBKA1nWSEmSSyIUcUSiScde9zrgKMpINsi4xSOvUjXskzznO2YxlXyqYuZW2AAAA[0m2.0.1
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4I1cIaE4AlSZq4xBNCCj2ibJ+Aj3wZwf6Z70C33w6ajoAAAAsB+LCAAAAAAAAP9djLENwjAQRY+gMAAlYgYfpKAISoFoiBSlYYIAlm0wtmWfUWAM1oCGIRiHHQhKx2v+a/57fiANHqYyHoI1bG9NsJqzzdVxr5U51Zb4oni8irt7J5CUMNLcCJIVDKPXBOPq2Fwa1I0RuCWvjFi2HiZ/uXW/vxj0DBKA1nWSEswlkQs5olAk4657nXEVZCQbZF1ikNapG/dInnPM2IxlX5DJsAy2AAAA[0m2.0.2
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4K9G8L0qK6XbaMZPDWgKtUd0uCueaUFsEhs0YOteyzqIAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgLWEwzCgpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89QvzsgvyKxKLdIvKUpN1TfSM9AzBgAG+bd7tgAAAA==[0m2.0.3
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4PDGn7ELnjg6+AlkmoBupSHMnZQxkElZYXYqGv0FePjPAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgLWEwzCgpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89QvzsgvyKxKLdIvKUpN1TfSM9AzAQClbNPltgAAAA==[0m2.0.4
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4ObP5jl0WxWcGWrmdzfcxB4e1KnffE3hEuWuzeiffNwuAAAAsR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgLWEwzCgpKSi20tdPzyzJKE0C6srVdyzOKC3JL87w89QvzsgvyKxKLdIvKUpN1TfSM9AzBQAzXNSStgAAAA==[0m2.0.5
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4CNkrQ7/PBqxiXo3crkCC2UAAXct1inrJjMzDz2M3xcyAAAAsB+LCAAAAAAAAP9djLENwjAQRY+gMAAlYgYfUKQISoFoiBSlYYIAlm0wtmWfUWAM1oCGIRiHHQhKx2v+a/57fiANHqYyHoI1bG9NsJqzzdVxr5U51ZZ4Vjxexd29E0hKGGluBMkKhtFrgnF1bC4N6sYI3JJXRixbD5O/3LrfXwx6BglA6zpJCeaSyIUcUSiScde9zrgKMpINsi4xSOvUjXskzzku2IxlX4kN3Qu2AAAA[0m2.0.6
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4ISvhe7SjWupkBiAOkw8bag7cvsTciSD6OfASHUQ2RFOAAAAsR+LCAAAAAAAAP9djDEOAUEUhp8VolaKK9jXiIJsIRqbbLZxgsHLzDBmJjNvZDmGa9A4hOO4gxWdr/m/5v8eb+jFAGOV9tHZfOdsdIby9cVTMNoea8c0K+7P4uZfGWQl9A1ZyaqCbgqGYVgdxFmgEVbihoO2ctEEGP3lVr/9xuBHJwNofCsDhqli9nGOKDWrtG1fJ1xGldhFVZcYlfP6SgE5EKFUEy8kxQ/RFHlNuQAAAA==[0mgh-pages
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4HEpYx+I5ABJ1oSFulDXVq0EfjRS3OZSndxj4ca4t8E7AAAAsB+LCAAAAAAAAP9djLENwjAQRY8gMgAlYoZYoqAApUA0RIrSMIEByzY4tnV3RoExWAMahmAcdiCIjtf81/z3eMOIEKYmHSj4Yh88BaeKzSUqdNafmsBqXt6f5S2+MsgqyJ3ymk0Nw4SOYVwf5VkKJ70WW0br9bJDmPzl1r/9xuDHIAPoYi85w8wwR1oIoS2btOtfrViRSRzINJUgE6K9KhSMSolWEiv8AKLW3SG3AAAA[0mmaster
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+  9 branches were processed
+
+  Checking pull-requests...
+
+  Getting remote pull requests...
+
+  0 pull requests were processed
+
+Finished examining AshutoshNI/shopizer
+
+Ignoring Template
+Ignoring TestDemo
+Ignoring TestDemo1
+Ignoring TestFTDemo1
+[8mha:////4F/yVVxuzKX1BxblLdf06oxz7fwx4/Myul1fRNkDZ7czAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSc24rJLQD8x6V/jgAAAA==[0m2 repositories were processed
+[Sun Sep 03 07:33:26 UTC 2017] Finished organization scan. Scan took 2.6 sec
+Finished: SUCCESS

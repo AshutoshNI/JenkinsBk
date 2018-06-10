@@ -1,0 +1,5 @@
+[Environment-LB] Running shell script
++ free -m
+              total        used        free      shared  buff/cache   available
+Mem:            990         479         153           3         358         354
+Swap:          1023           0        1023

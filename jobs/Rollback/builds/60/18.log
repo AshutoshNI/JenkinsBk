@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ rm -fr /opt/tomcat/webapps/ROOTBK

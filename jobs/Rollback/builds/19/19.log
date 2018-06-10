@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ cp -R /opt/tomcat/webapps/TROOT /opt/tomcat/webapps/ROOT

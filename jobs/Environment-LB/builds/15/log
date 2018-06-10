@@ -1,0 +1,48 @@
+Started by user [8mha:////4B5tmRot9Jnt0OApQ5p6omFtb0i+R3g65wvT6bI/ksv5AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL90qTSvJJSACwKtszBAAAA[0mTestData
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] node
+Running on master in /root/.jenkins/workspace/Environment-LB
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] {
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] echo
+Hello World
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ free -m
+              total        used        free      shared  buff/cache   available
+Mem:            990         571          72           3         346         257
+Swap:             0           0           0
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ rm -fr /root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ rm -fr /root/.jenkins/jobs/tpl1/builds/*
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ sudo df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            488M     0  488M   0% /dev
+tmpfs           100M  3.1M   97M   4% /run
+/dev/xvda1      7.7G  5.5G  2.3G  71% /
+tmpfs           496M     0  496M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           496M     0  496M   0% /sys/fs/cgroup
+tmpfs           100M     0  100M   0% /run/user/1000
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ sudo fallocate -l 1G /swapfile
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ sudo chmod 600 /swapfile
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ sudo swapon /swapfile
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Environment-LB] Running shell script
++ free -m
+              total        used        free      shared  buff/cache   available
+Mem:            990         576          66           3         348         253
+Swap:          1023           0        1023
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // node
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

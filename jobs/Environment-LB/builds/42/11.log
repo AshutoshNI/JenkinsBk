@@ -1,0 +1,3 @@
+[Environment-LB@2] Running shell script
++ sudo fallocate -l 1G /swapfile
+fallocate: fallocate failed: Text file busy

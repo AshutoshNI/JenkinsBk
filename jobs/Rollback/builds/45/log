@@ -1,0 +1,45 @@
+Started by user [8mha:////4B5tmRot9Jnt0OApQ5p6omFtb0i+R3g65wvT6bI/ksv5AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL90qTSvJJSACwKtszBAAAA[0mTestData
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] node
+Running on master in /root/.jenkins/workspace/Rollback
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] {
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] stage
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] { (Clean)
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /opt/tomcat/webapps/shop.war
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/shopizer/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war 
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/jobs/tpl1/builds/*
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/jobs/tpl1/builds/71 /root/.jenkins/jobs/tpl1/builds/lastFailedBuild /root/.jenkins/jobs/tpl1/builds/lastStableBuild /root/.jenkins/jobs/tpl1/builds/lastSuccessfulBuild /root/.jenkins/jobs/tpl1/builds/legacyIds
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // stage
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] stage
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] { (Rollback)
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ rm -fr /opt/tomcat/webapps/ROOTBK
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[Rollback] Running shell script
++ mv -f /opt/tomcat/webapps/ROOT /opt/tomcat/webapps/ROOTBK
+mv: cannot stat '/opt/tomcat/webapps/ROOT': No such file or directory
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // stage
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // node
+[8mha:////4HsV/GoaG5XvR0JuqPaCUjFeYKAJuJrwwD5KkGYPYUNGAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+[8mha:////4K4PaA7746L4MCoj4LIiaKVWRXX3YclYzuvK6InrWpdUAAAAVx+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0mV3NWzufebKBsTA0NFEYMUmgZnCA1SyAABjCCFBQC2xNaiYAAAAA==[0mFinished: FAILURE

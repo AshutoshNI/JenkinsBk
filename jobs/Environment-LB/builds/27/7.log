@@ -1,0 +1,9 @@
+[Environment-LB] Running shell script
++ sudo df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            488M     0  488M   0% /dev
+tmpfs           100M  3.1M   97M   4% /run
+/dev/xvda1      7.7G  6.1G  1.7G  79% /
+tmpfs           496M     0  496M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           496M     0  496M   0% /sys/fs/cgroup

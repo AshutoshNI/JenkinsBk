@@ -1,0 +1,3 @@
+[Rollback] Running shell script
++ mv -f /opt/tomcat/webapps/ROOT /opt/tomcat/webapps/ROOTBK
+mv: cannot move '/opt/tomcat/webapps/ROOT' to '/opt/tomcat/webapps/ROOTBK/ROOT': Directory not empty

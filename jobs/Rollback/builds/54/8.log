@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ rm -fr /root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war

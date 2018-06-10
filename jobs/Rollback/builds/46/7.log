@@ -1,0 +1,2 @@
+[Rollback@2] Running shell script
++ rm -fr /opt/tomcat/webapps/shop.war

@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ rm -fr /opt/tomcat/webapps/shop.war /root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war /root/shopizer/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war /root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war 

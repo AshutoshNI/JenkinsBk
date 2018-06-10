@@ -1,0 +1,2 @@
+[Environment-LB] Running shell script
++ rm -fr /root/.jenkins/jobs/tpl1/builds/76 /root/.jenkins/jobs/tpl1/builds/lastFailedBuild /root/.jenkins/jobs/tpl1/builds/lastSuccessfulBuild /root/.jenkins/jobs/tpl1/builds/lastUnsuccessfulBuild /root/.jenkins/jobs/tpl1/builds/legacyIds

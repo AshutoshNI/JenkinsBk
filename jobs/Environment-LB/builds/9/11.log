@@ -1,0 +1,3 @@
+[Environment-LB] Running shell script
++ sudo chmod 600 /swapfile
+sudo: unable to resolve host agent

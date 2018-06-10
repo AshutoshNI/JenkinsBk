@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<flow-build plugin="workflow-job@2.12.2">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>Ubuntu</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.10">
+      <queuingDurationMillis>8</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <io.jenkins.blueocean.service.embedded.BlueOceanUrlAction plugin="blueocean-rest-impl@1.2.0">
+      <blueOceanUrlObject class="io.jenkins.blueocean.service.embedded.BlueOceanUrlObjectImpl">
+        <mappedUrl>blue/organizations/jenkins/Environment-LB/detail/Environment-LB/3</mappedUrl>
+      </blueOceanUrlObject>
+    </io.jenkins.blueocean.service.embedded.BlueOceanUrlAction>
+    <org.jenkinsci.plugins.workflow.libs.LibrariesAction plugin="workflow-cps-global-lib@2.8">
+      <libraries/>
+    </org.jenkinsci.plugins.workflow.libs.LibrariesAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.25"/>
+  </actions>
+  <queueId>55</queueId>
+  <timestamp>1505806665105</timestamp>
+  <startTime>1505806665107</startTime>
+  <result>FAILURE</result>
+  <duration>729</duration>
+  <keepLog>false</keepLog>
+  <execution class="org.jenkinsci.plugins.workflow.cps.CpsFlowExecution">
+    <result>FAILURE</result>
+    <script>node {
+   echo &apos;Hello World&apos;
+   sh &apos;free -m&apos;
+   sh &apos;sudo fallocate -l 1G /swapfile&apos;
+   sh &apos;sudo chmod 600 /swapfile&apos;
+   sh &apos;sudo swapon /swapfile&apos;
+   sh &apos;free -m&apos;
+   }</script>
+    <loadedScripts class="map"/>
+    <timings class="map">
+      <entry>
+        <string>flowNode</string>
+        <long>28006397</long>
+      </entry>
+      <entry>
+        <string>classLoad</string>
+        <long>48176415</long>
+      </entry>
+      <entry>
+        <string>run</string>
+        <long>146085121</long>
+      </entry>
+      <entry>
+        <string>parse</string>
+        <long>60836007</long>
+      </entry>
+      <entry>
+        <string>saveProgram</string>
+        <long>10433009</long>
+      </entry>
+    </timings>
+    <sandbox>true</sandbox>
+    <iota>10</iota>
+    <head>1:10</head>
+  </execution>
+  <checkouts class="hudson.util.PersistedList"/>
+</flow-build>

@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ mv /opt/tomcat/webapps/ROOTBK /opt/tomcat/webapps/ROOT

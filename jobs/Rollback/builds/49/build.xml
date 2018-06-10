@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<flow-build plugin="workflow-job@2.12.2">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>ubuntu</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.10">
+      <queuingDurationMillis>114</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <io.jenkins.blueocean.service.embedded.BlueOceanUrlAction plugin="blueocean-rest-impl@1.2.0">
+      <blueOceanUrlObject class="io.jenkins.blueocean.service.embedded.BlueOceanUrlObjectImpl">
+        <mappedUrl>blue/organizations/jenkins/Rollback/detail/Rollback/49</mappedUrl>
+      </blueOceanUrlObject>
+    </io.jenkins.blueocean.service.embedded.BlueOceanUrlAction>
+    <org.jenkinsci.plugins.workflow.libs.LibrariesAction plugin="workflow-cps-global-lib@2.8">
+      <libraries/>
+    </org.jenkinsci.plugins.workflow.libs.LibrariesAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.25"/>
+  </actions>
+  <queueId>101</queueId>
+  <timestamp>1506315763177</timestamp>
+  <startTime>1506315763180</startTime>
+  <result>SUCCESS</result>
+  <duration>3514</duration>
+  <keepLog>false</keepLog>
+  <execution class="org.jenkinsci.plugins.workflow.cps.CpsFlowExecution">
+    <result>SUCCESS</result>
+    <script>node {
+   def mvnHome
+   stage(&apos;Clean&apos;) { // for display purposes
+      sh &quot;rm -fr &apos;/opt/tomcat/webapps/shop.war&apos;&quot;
+      sh &quot;rm -fr &apos;/root/.m2/repository/com/shopizer/sm-shop/2.0.5-SNAPSHOT/sm-shop-2.0.5-SNAPSHOT.war&apos;&quot; 
+      sh &quot;rm -fr &apos;/root/shopizer/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war&apos;&quot; 
+      sh &quot;rm -fr &apos;/root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war &apos;&quot;
+      sh &quot;rm -fr &apos;/root/.jenkins/jobs/tpl1/builds/*&apos;&quot;
+      sh &quot;rm -fr &apos;/root/.jenkins/workspace/tpl1/sm-shop/target/sm-shop-2.0.5-SNAPSHOT.war&apos;&quot;
+      sh &quot;rm -fr /root/.jenkins/jobs/tpl1/builds/*&quot;
+   }
+   stage(&apos;Rollback&apos;) {
+     sh &quot;rm -fr  &apos;/opt/tomcat/webapps/ROOTBK&apos;  &quot;
+     sh &quot;mv -f  &apos;/opt/tomcat/webapps/ROOT&apos; &apos;/opt/tomcat/webapps/ROOTBK&apos;  &quot;
+     sh &quot;cp -R &apos;/opt/tomcat/webapps/TROOT&apos; &apos;/opt/tomcat/webapps/ROOT&apos; &quot;
+   }
+   stage(&apos;Space&apos;) {
+      
+      sh &quot;df -h&quot;
+   }
+}</script>
+    <loadedScripts class="map"/>
+    <timings class="map">
+      <entry>
+        <string>flowNode</string>
+        <long>82827504</long>
+      </entry>
+      <entry>
+        <string>classLoad</string>
+        <long>357252404</long>
+      </entry>
+      <entry>
+        <string>run</string>
+        <long>503833640</long>
+      </entry>
+      <entry>
+        <string>parse</string>
+        <long>270077999</long>
+      </entry>
+      <entry>
+        <string>saveProgram</string>
+        <long>33453582</long>
+      </entry>
+    </timings>
+    <sandbox>true</sandbox>
+    <iota>30</iota>
+    <head>1:30</head>
+  </execution>
+  <checkouts class="hudson.util.PersistedList"/>
+</flow-build>

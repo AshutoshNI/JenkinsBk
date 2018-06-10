@@ -1,0 +1,586 @@
+commit fa1172dd5318866fd38f27b556da2e81364e06e0
+tree e929bd0f4668fb78355de177fffc383ccccef7c0
+parent 320357735e25ed182a84a2974d772a350d4bd63a
+author AshutoshNI <ashutosh@niit-tech.com> 2018-02-27 02:01:01 +0530
+committer GitHub <noreply@github.com> 2018-02-27 02:01:01 +0530
+
+    CR#444|Demo Test1
+
+
+
+:100644 100644 f67ee1a603f408e50e28a4c1bad50ef34bf1dc1b d0f7a3b9092c9c208fb65f18915cdd4405411d0f M	template/index.html
+commit 320357735e25ed182a84a2974d772a350d4bd63a
+tree 447cb123e4e92a152c10669d0a6b37ab71675120
+parent 0dbe225ee6a59d3ede1eb0aa2d89543ad0eb4323
+author AshutoshNI <ashutosh@niit-tech.com> 2018-02-27 01:43:54 +0530
+committer GitHub <noreply@github.com> 2018-02-27 01:43:54 +0530
+
+    CR12222| Just Demo
+
+
+
+:100644 100644 6b7ead7d634dd711f3bf16ac81e1147c0e3929a5 f67ee1a603f408e50e28a4c1bad50ef34bf1dc1b M	template/index.html
+commit 0dbe225ee6a59d3ede1eb0aa2d89543ad0eb4323
+tree 2a660e2856ea8ecbe8e9730714d9c09b9cb081c8
+parent 00eadf8e6af51a6d019d02256de6ce41f9f64d28
+author AshutoshNI <ashutosh@niit-tech.com> 2018-02-23 02:04:18 +0530
+committer GitHub <noreply@github.com> 2018-02-23 02:04:18 +0530
+
+    CR 23 | UTICA NY Changes
+
+
+
+:100644 100644 f2fceef5ddef790a0e85f85b875f82020883d04b 6b7ead7d634dd711f3bf16ac81e1147c0e3929a5 M	template/index.html
+commit 00eadf8e6af51a6d019d02256de6ce41f9f64d28
+tree a7f6511b3d849093571971e67735c7b59250f48f
+parent 3e5bd7377d625c8833684a9f118943f33fa65638
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-24 16:07:14 +0530
+committer GitHub <noreply@github.com> 2018-01-24 16:07:14 +0530
+
+    Update index.html
+
+
+
+:100644 100644 b35d74bdb0e88bcd701999d5410b5842dbf85fe6 f2fceef5ddef790a0e85f85b875f82020883d04b M	template/index.html
+commit 7f055e820b6fcbabea3b6cc5ddad4a33e2128cb6
+tree 941c06c42f3ca868c6fdfe5a749f1d27060dd8ba
+parent 41b550d3eb3dae1c30b3db382ca9ed0e5fe1db0e
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-24 16:02:55 +0530
+committer GitHub <noreply@github.com> 2018-01-24 16:02:55 +0530
+
+    CR # 444
+
+
+
+:100644 100644 9fdaeef42e47b5b3ec99570ff2c5179580d5f5c9 b35d74bdb0e88bcd701999d5410b5842dbf85fe6 M	template/index.html
+commit 41b550d3eb3dae1c30b3db382ca9ed0e5fe1db0e
+tree 30072aea6541f6e756f11d80ef680d17703bffe4
+parent e77fbbde880b23c82f6c9d21ff1774fb6914b0ca
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-23 16:54:05 +0530
+committer GitHub <noreply@github.com> 2018-01-23 16:54:05 +0530
+
+    CR# 503333
+
+
+
+:100644 100644 2476766f2d0a8b9f09b83d9ef1af8feb4cb84b7a 9fdaeef42e47b5b3ec99570ff2c5179580d5f5c9 M	template/index.html
+commit e77fbbde880b23c82f6c9d21ff1774fb6914b0ca
+tree eca7498a561a9be9ffced847129bee4a6d78b8f6
+parent 2ec48e4790eeec242c0b481a0af2a84b173b133f
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-23 13:37:17 +0530
+committer GitHub <noreply@github.com> 2018-01-23 13:37:17 +0530
+
+    CR#503
+
+
+
+:100644 100644 a17274e9e1e2caa5b70c73c254240a77c8b2541a 2476766f2d0a8b9f09b83d9ef1af8feb4cb84b7a M	template/index.html
+commit 2ec48e4790eeec242c0b481a0af2a84b173b133f
+tree 1952e45b23a13794a19b34328d807086fff0771a
+parent 973061714e054a8dfbb1428fecdab5d3f60c7fec
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-22 12:38:18 +0530
+committer GitHub <noreply@github.com> 2018-01-22 12:38:18 +0530
+
+    CR # 52 | Test
+
+
+
+:100644 100644 cb3fc1b8e4da1c9e5360238bfac74a1a1efd9f23 a17274e9e1e2caa5b70c73c254240a77c8b2541a M	template/index.html
+commit 973061714e054a8dfbb1428fecdab5d3f60c7fec
+tree a82c2ffedb9fe877454aeb3260bd7b90d12f68ee
+parent 88f0ab72cc6c245214e83302ca4271dd79ba180c
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-22 12:32:58 +0530
+committer GitHub <noreply@github.com> 2018-01-22 12:32:58 +0530
+
+    CR# 501 | Test
+
+
+
+:100644 100644 74ea91a1591feefe307962fb226abb7f95a71e16 cb3fc1b8e4da1c9e5360238bfac74a1a1efd9f23 M	template/index.html
+commit 88f0ab72cc6c245214e83302ca4271dd79ba180c
+tree c0b89da2ae0fd01d69073102e975aba9ee504d48
+parent 42f7ec9429f559a0ad58d4a703d27e0f874094b3
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-02 16:51:59 +0530
+committer GitHub <noreply@github.com> 2018-01-02 16:51:59 +0530
+
+    CR - 500 | Test
+
+
+
+:100644 100644 6846cb330b9ccb845e4b5e69ae8223b0965fde58 74ea91a1591feefe307962fb226abb7f95a71e16 M	template/index.html
+commit 42f7ec9429f559a0ad58d4a703d27e0f874094b3
+tree 0f13511c787f23f7b8b311693663a2f998ac51cb
+parent 692a4ed519a17ca1150ad39cfd2e06d0db61df58
+author AshutoshNI <ashutosh@niit-tech.com> 2018-01-02 16:16:28 +0530
+committer GitHub <noreply@github.com> 2018-01-02 16:16:28 +0530
+
+    CR -458 | Demo 3
+
+
+
+:100644 100644 38a8e3bf984d0c5a27c1694e5dd9984e56be6e2e 6846cb330b9ccb845e4b5e69ae8223b0965fde58 M	template/index.html
+commit 692a4ed519a17ca1150ad39cfd2e06d0db61df58
+tree 09fa18211bb35bbf7c8a1a444e1a561b5ddb7208
+parent c3527574f7f793727512656df08039706f68df12
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-20 13:04:08 +0530
+committer GitHub <noreply@github.com> 2017-11-20 13:04:08 +0530
+
+    CR# 457 | Change 2
+
+
+
+:100644 100644 4436d5449c7245c8b897debadbb573fbaa37e52e 38a8e3bf984d0c5a27c1694e5dd9984e56be6e2e M	template/index.html
+commit c3527574f7f793727512656df08039706f68df12
+tree ca9549228687a9a9292690da4766c8b94821652d
+parent 570e06b619fb89cad0edb51810b42eca6bc02709
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-20 13:02:58 +0530
+committer GitHub <noreply@github.com> 2017-11-20 13:02:58 +0530
+
+    CR# 456 | Change1
+
+
+
+:100644 100644 c73586f940331919280ca1979c9c78d33f48e9f0 4436d5449c7245c8b897debadbb573fbaa37e52e M	template/index.html
+commit 570e06b619fb89cad0edb51810b42eca6bc02709
+tree 45387abba527bd615b81315c5da6abf32270d00e
+parent 6c5742d5d4536ec1253c263c26c8e0547f4fc5ce
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-18 00:08:40 +0530
+committer GitHub <noreply@github.com> 2017-11-18 00:08:40 +0530
+
+    CR#455 : test#455
+
+
+
+:100644 100644 16195a3494e86d869444aa517a32b2d970a5c6ba c73586f940331919280ca1979c9c78d33f48e9f0 M	template/index.html
+commit 6c5742d5d4536ec1253c263c26c8e0547f4fc5ce
+tree 97cb4cd8159606b489a46adf09a567dba881f4c4
+parent dcdfc012ecea844c9fadf6ab9a1f2558ba16b6d3
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-17 09:54:45 -0800
+committer GitHub <noreply@github.com> 2017-11-17 09:54:45 -0800
+
+    CR# 450 |  Test450
+
+
+
+:100644 100644 0c16b1eb96d9f07ce3bf4e50933d704397a7f6bf 16195a3494e86d869444aa517a32b2d970a5c6ba M	template/index.html
+commit dcdfc012ecea844c9fadf6ab9a1f2558ba16b6d3
+tree 2256f1a6bbb69539d830a9afe130e9500c23eef1
+parent 5f0e6457bc882ddd095a06282fc7c4f76c7876a4
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-17 16:06:09 +0530
+committer GitHub <noreply@github.com> 2017-11-17 16:06:09 +0530
+
+    CR # 455 | Test
+
+
+
+:100644 100644 4a55df25737d9bb052fddaa5116cb8bcbfc4ae0a 0c16b1eb96d9f07ce3bf4e50933d704397a7f6bf M	template/index.html
+commit 5f0e6457bc882ddd095a06282fc7c4f76c7876a4
+tree 205a681e32e90f835f30ca86d53b8592d2564582
+parent e1c44087a0a3c984ef2ee626ff74070eb633fbf5
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-17 16:02:04 +0530
+committer GitHub <noreply@github.com> 2017-11-17 16:02:04 +0530
+
+    CR # 444 | Content Changes
+
+
+
+:100644 100644 ee5ff35d6bde5ef516baf2414570bbbcfbcbd639 4a55df25737d9bb052fddaa5116cb8bcbfc4ae0a M	template/index.html
+commit e1c44087a0a3c984ef2ee626ff74070eb633fbf5
+tree 812a2701502d877b345468e0a3c2734a26765776
+parent a1ce538b5b8d182bcb1ca728114b659e247bde41
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-17 15:39:07 +0530
+committer GitHub <noreply@github.com> 2017-11-17 15:39:07 +0530
+
+    Test
+
+
+
+:100644 100644 eddd2b225903b347286c6750d33924ec1692c167 ee5ff35d6bde5ef516baf2414570bbbcfbcbd639 M	template/index.html
+commit a1ce538b5b8d182bcb1ca728114b659e247bde41
+tree d75b9fd7c7519e201a932f83d859042600ff6a80
+parent c8dfc308967fd32774eb230e239aa93d79eb4b03
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-16 16:41:49 +0530
+committer GitHub <noreply@github.com> 2017-11-16 16:41:49 +0530
+
+    CR # 23 | Demo to Jagdish
+
+
+
+:100644 100644 aa0395a3c8dcbac47f1e2d22b10dfef6fedb68dd eddd2b225903b347286c6750d33924ec1692c167 M	template/index.html
+commit c8dfc308967fd32774eb230e239aa93d79eb4b03
+tree 3e20cb80f4a1d010edc85b0b110c0d68300a752e
+parent 28b879375052646c714317bb63e8f066dacfed44
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-16 16:07:49 +0530
+committer GitHub <noreply@github.com> 2017-11-16 16:07:49 +0530
+
+    CR # 22 | Content Changes
+
+
+
+:100644 100644 8d90a0daad36ccf2d8909ed6c6b48ab85eae524e aa0395a3c8dcbac47f1e2d22b10dfef6fedb68dd M	template/index.html
+commit 28b879375052646c714317bb63e8f066dacfed44
+tree db1e2cfaa542eee4dbf18233c1d447b314af0ced
+parent 25bd12e6edd1d30ee87bffa57b82264601fd322f
+author AshutoshNI <ashutosh@niit-tech.com> 2017-11-14 00:42:38 -0800
+committer GitHub <noreply@github.com> 2017-11-14 00:42:38 -0800
+
+    CR21| Travel & Holiday Site -  Demo Purpose
+
+
+
+:100644 100644 53d74d14ea682e99710265d9a78e46d5c3c684f3 8d90a0daad36ccf2d8909ed6c6b48ab85eae524e M	template/index.html
+commit 25bd12e6edd1d30ee87bffa57b82264601fd322f
+tree fa676bd4a9aab2b11fcbf4c1cc4389c9506a1dae
+parent 0e57861c9cdb614470a7c96b42aec3653ef7122c
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-25 10:40:48 +0530
+committer GitHub <noreply@github.com> 2017-09-25 10:40:48 +0530
+
+    CR# 20 | Demo Test 20
+
+
+
+:100644 100644 5a491f7e7785b4eba00a7ccf9bd94052548708b3 53d74d14ea682e99710265d9a78e46d5c3c684f3 M	template/index.html
+commit 0e57861c9cdb614470a7c96b42aec3653ef7122c
+tree 8d29ebfdbac432794a476ad0aef2ac29d877e94a
+parent 01a0e716e494c210401e881fd1857301462187f8
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-25 10:15:55 +0530
+committer GitHub <noreply@github.com> 2017-09-25 10:15:55 +0530
+
+    CR#19 | Demo 19
+
+
+
+:100644 100644 101e5084df0847f9246466eae72c34abd0d7252f 5a491f7e7785b4eba00a7ccf9bd94052548708b3 M	template/index.html
+commit 01a0e716e494c210401e881fd1857301462187f8
+tree 9a205184f90e37f98a7871fea2ed0039090c0154
+parent 25d195f10a358dc7da02f4d94c3d295604665dc1
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-19 07:49:20 +0000
+committer GitHub <noreply@github.com> 2017-09-19 07:49:20 +0000
+
+    CR#18 | Demo 18
+
+
+
+:100644 100644 01481f4298f4f82d44d86336b8a9a541d865b77c 101e5084df0847f9246466eae72c34abd0d7252f M	template/index.html
+commit 25d195f10a358dc7da02f4d94c3d295604665dc1
+tree ea9bf819a75861c541d663ece307698760ab5aed
+parent 9460c2ceb76c03f20869f1135fdf769c9541b8fe
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-15 00:46:05 -0700
+committer GitHub <noreply@github.com> 2017-09-15 00:46:05 -0700
+
+    Demo1 | Test
+
+
+
+:100644 100644 0fbb0e7654e79698bb710ee3d64b527687daf0ff 01481f4298f4f82d44d86336b8a9a541d865b77c M	template/index.html
+commit 9460c2ceb76c03f20869f1135fdf769c9541b8fe
+tree f95cc69f2c342e18b7db484f58e0d198b51d04b5
+parent 9111b42191edd726e9cc48db48fe32d7ca3e5140
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-14 21:16:34 -0700
+committer GitHub <noreply@github.com> 2017-09-14 21:16:34 -0700
+
+    CR#17  |  Demo Test17
+
+
+
+:100644 100644 f1c15dab6b8b6c0fca277ad4d15ec84c8a589644 0fbb0e7654e79698bb710ee3d64b527687daf0ff M	template/index.html
+commit 9111b42191edd726e9cc48db48fe32d7ca3e5140
+tree 913fc9050dd46fe3b5ecb68ed839914b9d0719d5
+parent ec58e35a8119f34b900632553148a540006ce729
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-12 05:38:18 +0000
+committer GitHub <noreply@github.com> 2017-09-12 05:38:18 +0000
+
+    CR#16 | Demo Test 16
+
+
+
+:100644 100644 54f7b244dd596b3ccab86c3234813acdec5ca923 f1c15dab6b8b6c0fca277ad4d15ec84c8a589644 M	template/index.html
+commit ec58e35a8119f34b900632553148a540006ce729
+tree ec24ab6cf1e05184407cbd71fc2f45736608e5f4
+parent d145e9e6bb92a1b258c27fff5765fdf56d31e16d
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-09 10:30:21 +0530
+committer GitHub <noreply@github.com> 2017-09-09 10:30:21 +0530
+
+    CR
+
+
+
+:100644 100644 ab0163bb7c691a844aa85922292b2336bccb2dae 54f7b244dd596b3ccab86c3234813acdec5ca923 M	template/index.html
+commit d145e9e6bb92a1b258c27fff5765fdf56d31e16d
+tree 85a1d655c1b4654a2d39ea6de4a966b5082a53a6
+parent b8c9bd01d50be3b61e5d4084d9dbee292b702581
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-09 10:29:15 +0530
+committer GitHub <noreply@github.com> 2017-09-09 10:29:15 +0530
+
+    CR 15
+
+
+
+:100644 100644 254994c3d505d9a908aa7cebcc59bc1577f50204 ab0163bb7c691a844aa85922292b2336bccb2dae M	template/index.html
+commit b8c9bd01d50be3b61e5d4084d9dbee292b702581
+tree cce40dc2e9ff448dd2d695b0c9ff4d35715e0a79
+parent 30f9acad35153de746d123b17d57fe6b7a7aed11
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-08 17:30:22 +0530
+committer GitHub <noreply@github.com> 2017-09-08 17:30:22 +0530
+
+    CR # 15
+
+
+
+:100644 100644 052d1648b6305d642b103537522bd65a62ff8fa1 254994c3d505d9a908aa7cebcc59bc1577f50204 M	template/index.html
+commit 30f9acad35153de746d123b17d57fe6b7a7aed11
+tree 8deb298cfce50f112e845cdb73e7bd06d7c622c3
+parent 9ec8a5629ea963867a81c4d30c59e3bae3b13ebd
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-08 16:11:47 +0530
+committer GitHub <noreply@github.com> 2017-09-08 16:11:47 +0530
+
+    CR#14 | Test5
+
+
+
+:100644 100644 6e232df2426428772a562a885d3fbfc0ef7d107f 052d1648b6305d642b103537522bd65a62ff8fa1 M	template/index.html
+commit 9ec8a5629ea963867a81c4d30c59e3bae3b13ebd
+tree 747152e6df952a3cf3f3fbfedb3d96d3770eb0e2
+parent dd170feff9184f1f2c0f920d7104fe07072699f6
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-08 15:39:30 +0530
+committer GitHub <noreply@github.com> 2017-09-08 15:39:30 +0530
+
+    CR# - 13 | Travel & Holiday
+
+
+
+:100644 100644 1d9f1ea8eea7aa42824d60646678519468142438 6e232df2426428772a562a885d3fbfc0ef7d107f M	template/index.html
+commit dd170feff9184f1f2c0f920d7104fe07072699f6
+tree a5387b838129bd01c73fbb339580c5cada5d5268
+parent b9d135c3ab0d9e0ad2a8754c2abccf0f46e1f84c
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-08 10:17:07 +0530
+committer GitHub <noreply@github.com> 2017-09-08 10:17:07 +0530
+
+    CR# 11 | Demo Test3
+
+
+
+:100644 100644 28cccea8025b6b5997a5217c6e44b70186d50c59 1d9f1ea8eea7aa42824d60646678519468142438 M	template/index.html
+commit b9d135c3ab0d9e0ad2a8754c2abccf0f46e1f84c
+tree 107b644a4eb300573aa8134233ea90374f9b32fe
+parent 49f148b80afc509f1507dfd42e3518ca0e0ad9ba
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-08 09:49:09 +0530
+committer GitHub <noreply@github.com> 2017-09-08 09:49:09 +0530
+
+    CR#10 | Demo Change
+
+
+
+:100644 100644 a6d5b70be19eadf2c7effb1f118774a474541447 28cccea8025b6b5997a5217c6e44b70186d50c59 M	template/index.html
+commit 49f148b80afc509f1507dfd42e3518ca0e0ad9ba
+tree e497bea81d412a16ab0f738b8ada10877d18b3ee
+parent 82d665b3e590f968163963fa970bbc20a20bbc71
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-07 11:01:31 +0000
+committer GitHub <noreply@github.com> 2017-09-07 11:01:31 +0000
+
+    CR 10 | New Changes
+
+
+
+:100644 100644 e0c23b8ed90c31637250e63fb6a035a48a0ed19b a6d5b70be19eadf2c7effb1f118774a474541447 M	template/index.html
+commit 82d665b3e590f968163963fa970bbc20a20bbc71
+tree 89dd95cbc9c96c6e4543048a42d4c62eef40ba73
+parent f2bfd7131b1070fae69824f60db64015b195dfc6
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-07 08:39:49 +0000
+committer GitHub <noreply@github.com> 2017-09-07 08:39:49 +0000
+
+    CR#9| Test
+
+
+
+:100644 100644 e56f40494ea17e80002d413b7b4b655bc25591a0 e0c23b8ed90c31637250e63fb6a035a48a0ed19b M	template/index.html
+commit f2bfd7131b1070fae69824f60db64015b195dfc6
+tree 98701fb3c2e4ac1fd38f9292eb9580a36b0d2cdf
+parent 949233a4a23b93111ae676f776c096c87a87e09e
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-06 06:13:48 +0000
+committer GitHub <noreply@github.com> 2017-09-06 06:13:48 +0000
+
+    CR# 8 | Test
+
+
+
+:100644 100644 249173ad3318ff7bc40c0fcf0429212692b00fcc e56f40494ea17e80002d413b7b4b655bc25591a0 M	template/index.html
+commit 949233a4a23b93111ae676f776c096c87a87e09e
+tree c7ac258f4c05655f111c2d249138a15541e88eb8
+parent 4d24322f2dd116d61f79e46ab85647bd78973cf7
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-06 05:56:32 +0000
+committer GitHub <noreply@github.com> 2017-09-06 05:56:32 +0000
+
+    CR#7| Test
+
+
+
+:100644 100644 9cefbf1db09365c943a1db185c23bd14d038c1d9 249173ad3318ff7bc40c0fcf0429212692b00fcc M	template/index.html
+commit 4d24322f2dd116d61f79e46ab85647bd78973cf7
+tree 812a7aa8524947966abc0ff3c233146fc6a26953
+parent 54409c8a152787df64bc2509bceb84d7e62834df
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 07:37:04 +0000
+committer GitHub <noreply@github.com> 2017-09-05 07:37:04 +0000
+
+    Test12
+
+
+
+:100644 100644 683c519e6678c7c4db8cae54ea648cf8e400f751 9cefbf1db09365c943a1db185c23bd14d038c1d9 M	template/index.html
+commit 54409c8a152787df64bc2509bceb84d7e62834df
+tree 9483e3afe35aa453b988f38f2a0eba2fc71a1070
+parent 0d430d7eee429d542134b8cce797bcb76cc62d0a
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 07:33:45 +0000
+committer GitHub <noreply@github.com> 2017-09-05 07:33:45 +0000
+
+    Test Data
+
+
+
+:100644 100644 bf970bbf2be1f9f2024d19f460bd1613eba9695f 683c519e6678c7c4db8cae54ea648cf8e400f751 M	template/index.html
+commit 0d430d7eee429d542134b8cce797bcb76cc62d0a
+tree 50c02f71a16d5023f566158d99780aa1c86b647e
+parent fffbb5ab7972ed79da32f7e2fe14bb969b6a3c22
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 06:46:20 +0000
+committer GitHub <noreply@github.com> 2017-09-05 06:46:20 +0000
+
+    CR 6 | View Change
+
+
+
+:100644 100644 6a94f99770425d94201dc018d4eddef8bd571278 bf970bbf2be1f9f2024d19f460bd1613eba9695f M	template/index.html
+commit fffbb5ab7972ed79da32f7e2fe14bb969b6a3c22
+tree 0a0fb51cd1e0d330d42edb05dcce067d8fe3607b
+parent d588de578619a8ab205a19bc606ff28e295c1f7a
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 05:39:43 +0000
+committer GitHub <noreply@github.com> 2017-09-05 05:39:43 +0000
+
+    CR#5 | Changes in View
+
+
+
+:100644 100644 5a75f3653e615fc7834daede46188566308b907c 6a94f99770425d94201dc018d4eddef8bd571278 M	template/index.html
+commit d588de578619a8ab205a19bc606ff28e295c1f7a
+tree c05b0ede1b2884bab8942431e3a0aff07545ae77
+parent 1473b70a940eb6245d62e90b2b554f52110478f3
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 05:38:15 +0000
+committer GitHub <noreply@github.com> 2017-09-05 05:38:15 +0000
+
+    Update index.html
+
+
+
+:100644 100644 ecf344178f0ab1331bb250bf0ba4caca4d8c7931 5a75f3653e615fc7834daede46188566308b907c M	template/index.html
+commit 1473b70a940eb6245d62e90b2b554f52110478f3
+tree f6b44c58d08047bf92957ead1eece48e1cf3ee4a
+parent 5d11b38d471eee0a948e3da52dc2b45d28dae78c
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 05:31:53 +0000
+committer GitHub <noreply@github.com> 2017-09-05 05:31:53 +0000
+
+    Update index.html
+
+
+
+:100644 100644 87e0974f47798f8299ab2734df19352da03692a9 ecf344178f0ab1331bb250bf0ba4caca4d8c7931 M	template/index.html
+commit 5d11b38d471eee0a948e3da52dc2b45d28dae78c
+tree aeb5c6c097f10a3edbcd31b491975149033dd9dd
+parent 7b2fdfa3f6a0d118becd8d32b6d2d7a42da434fb
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-05 04:56:07 +0000
+committer GitHub <noreply@github.com> 2017-09-05 04:56:07 +0000
+
+    CR3 | Content Change Travel Site
+
+
+
+:100644 100644 81c2bcc8b315dbc012d37ca5cf9195723ef9528b 87e0974f47798f8299ab2734df19352da03692a9 M	template/index.html
+commit 7b2fdfa3f6a0d118becd8d32b6d2d7a42da434fb
+tree 765d89cce9d8b02e3122ce7849e59442fe4d3043
+parent d3e87dc3c71ed05f5dd83ca1fad578cda0492347
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-04 11:35:04 +0000
+committer GitHub <noreply@github.com> 2017-09-04 11:35:04 +0000
+
+    CR-2 | Content Change
+
+
+
+:100644 100644 cca26bee0dbcedca07ca7f22b259a7dcb19a267c 81c2bcc8b315dbc012d37ca5cf9195723ef9528b M	template/index.html
+commit d3e87dc3c71ed05f5dd83ca1fad578cda0492347
+tree a90c6d7683f0b79d35094e6641ef5a9867f1e991
+parent d9864a2845ca1bea691ba072f1e999da1a5ebbc3
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-04 11:29:43 +0000
+committer GitHub <noreply@github.com> 2017-09-04 11:29:43 +0000
+
+    CR-1 | Test
+
+
+
+:100644 100644 1026660d2d2dbaf593dbd94c58138c03bb020988 cca26bee0dbcedca07ca7f22b259a7dcb19a267c M	template/index.html
+commit d9864a2845ca1bea691ba072f1e999da1a5ebbc3
+tree 219142c64ece734322044b4935e63ce3313ae7fc
+parent 01da8bf3a5b4346b2d3fcb07334690305504100d
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-04 11:13:06 +0000
+committer GitHub <noreply@github.com> 2017-09-04 11:13:06 +0000
+
+    Update index.html
+
+
+
+:100644 100644 bf1e6c53d93cda08544183d7b4d526d97bb1650f 1026660d2d2dbaf593dbd94c58138c03bb020988 M	template/index.html
+commit 01da8bf3a5b4346b2d3fcb07334690305504100d
+tree d5d34dd22cc76d20bb5f3404260b42bdc933c459
+parent f0beb591e8e377274181aac77f833fd7967ab0dd
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-04 10:19:29 +0000
+committer GitHub <noreply@github.com> 2017-09-04 10:19:29 +0000
+
+    Demo | Test1
+
+
+
+:100644 100644 5c92f90d3b3642a364b0bffb81c76c584f62a841 bf1e6c53d93cda08544183d7b4d526d97bb1650f M	template/index.html
+commit f0beb591e8e377274181aac77f833fd7967ab0dd
+tree a85f9503910cfead0eecd8ae228c7c38c98fe178
+parent d9a6206035a96425e06a5ef4305398ec7bd0e0fa
+author shutosh <ashutosh@niit-tech.com> 2017-09-04 05:58:48 +0000
+committer shutosh <ashutosh@niit-tech.com> 2017-09-04 05:58:48 +0000
+
+    template
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 69775cf5593fa96cc3e6c3422c99138e8834381e A	template/CREDITS.txt
+:000000 100644 0000000000000000000000000000000000000000 8bc5d3af716bd40f124db0aafe694bec12c502ae A	template/LICENSE.txt
+:000000 100644 0000000000000000000000000000000000000000 9b27f8ea8f8da544b622a801c4a47f73e3865929 A	template/assets/css/font-awesome.min.css
+:000000 100644 0000000000000000000000000000000000000000 242453820088ae0cb7ac24b54a0323110901f8ae A	template/assets/css/main.css
+:000000 100644 0000000000000000000000000000000000000000 d4de13e832d567ff29c5b4e9561b8c370348cc9c A	template/assets/fonts/FontAwesome.otf
+:000000 100644 0000000000000000000000000000000000000000 c7b00d2ba8896fd29de846b19f89fcf0d56ad152 A	template/assets/fonts/fontawesome-webfont.eot
+:000000 100644 0000000000000000000000000000000000000000 8b66187fe067c3aa389ce8c98108f349ceae159c A	template/assets/fonts/fontawesome-webfont.svg
+:000000 100644 0000000000000000000000000000000000000000 f221e50a2ef60738ba30932d834530cdfe55cb3e A	template/assets/fonts/fontawesome-webfont.ttf
+:000000 100644 0000000000000000000000000000000000000000 6e7483cf61b490c08ed644d6ef802c69472eb247 A	template/assets/fonts/fontawesome-webfont.woff
+:000000 100644 0000000000000000000000000000000000000000 7eb74fd127ee5eddf3b95fee6a20dc1684b0963b A	template/assets/fonts/fontawesome-webfont.woff2
+:000000 100644 0000000000000000000000000000000000000000 0f60b7bd0d9c395e1748cc962810d2dee9bb9fc2 A	template/assets/js/jquery.min.js
+:000000 100644 0000000000000000000000000000000000000000 c511a5c03a3d0d86ae561a460b863eab811af842 A	template/assets/js/jquery.scrollex.min.js
+:000000 100644 0000000000000000000000000000000000000000 5d088505239b70a75098f54a9a30015c91f2fdee A	template/assets/js/jquery.scrolly.min.js
+:000000 100644 0000000000000000000000000000000000000000 a3770bb497b51b1cd44631ea70d5cdec8cbace35 A	template/assets/js/main.js
+:000000 100644 0000000000000000000000000000000000000000 6ca4bf12d6f5a4a51975dd3050c3ef5e121faed5 A	template/assets/js/skel.min.js
+:000000 100644 0000000000000000000000000000000000000000 ecf7b371edf6ab8ec94c019f50729854e48e4d3d A	template/assets/js/util.js
+:000000 100644 0000000000000000000000000000000000000000 73447b97a2e7d33f2560d81241ece46617218783 A	template/elements.html
+:000000 100644 0000000000000000000000000000000000000000 ab858c7525572b4d7c9878bec2988fb6580271fc A	template/generic.html
+:000000 100644 0000000000000000000000000000000000000000 ee12ca7a3aa66afff6ed4a284ddfd3e286fe8c68 A	template/images/banner.jpg
+:000000 100644 0000000000000000000000000000000000000000 ad436f24f38eef516ccb1672cdc31d1047f325c7 A	template/images/banner2.jpg
+:000000 100644 0000000000000000000000000000000000000000 96321d3418e894c796d57eaa3a0389a22cd36968 A	template/images/banner3.jpg
+:000000 100644 0000000000000000000000000000000000000000 ffcf81ea42489b059d66bb25d881afd9e5d1de27 A	template/images/banner4.jpg
+:000000 100644 0000000000000000000000000000000000000000 774548c04d03772cd7fea54ffa723346b025ab1a A	template/images/banner5.jpg
+:000000 100644 0000000000000000000000000000000000000000 cce4d6f68b46a09bb56b3a4ace886774ca007dc1 A	template/images/pic01.jpg
+:000000 100644 0000000000000000000000000000000000000000 6164232ec61a58e6599f6571e4a8bedad8c23de3 A	template/images/pic02.jpg
+:000000 100644 0000000000000000000000000000000000000000 5c92f90d3b3642a364b0bffb81c76c584f62a841 A	template/index.html
+commit d9a6206035a96425e06a5ef4305398ec7bd0e0fa
+tree 08856dfdf524656a8d041a8e54ceb7fc7ce9b79a
+parent 55eaaccf50dc1ca1d2fe8eba22825c50083fdfc1
+author AshutoshNI <ashutosh@niit-tech.com> 2017-09-03 00:43:31 -0700
+committer GitHub <noreply@github.com> 2017-09-03 00:43:31 -0700
+
+    Delete
+
+
+
+:100644 000000 8cbb7b622a1b1aa87c70089f3e8e56b16d9a69cb 0000000000000000000000000000000000000000 D	Jenkinsfile

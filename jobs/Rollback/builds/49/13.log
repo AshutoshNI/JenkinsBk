@@ -1,0 +1,2 @@
+[Rollback] Running shell script
++ rm -fr /root/.jenkins/jobs/tpl1/builds/84 /root/.jenkins/jobs/tpl1/builds/lastFailedBuild /root/.jenkins/jobs/tpl1/builds/lastUnsuccessfulBuild
